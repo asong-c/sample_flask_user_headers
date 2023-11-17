@@ -1,5 +1,5 @@
 # Basic flask application to print all headers in logs and return Remote-User in application output
-!pip install flask
+!pip3 install flask
 
 import flask
 import pprint
