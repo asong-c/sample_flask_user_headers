@@ -9,3 +9,6 @@ This is a basic deomnstration of how CML username is added to headers when CML a
    - Set script (flask-headers.py)
    - Pick Runtime (suggest Workbench Python3.9)
 - Navigate to application url in a browser 
+  - Remote-user will be displayed if Application authentication was not disabled for this Application
+  - Other headers are printed in Application logs for reference
+
